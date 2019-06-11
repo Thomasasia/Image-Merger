@@ -1,5 +1,5 @@
 # Image-Merger
-A simple ruby script to merge images. This was written partially to test the capabilities of PyCall
+A simple ruby script to merge same-sized images. This was written partially to test the capabilities of PyCall
 
 ## Requirements:
     Ruby
